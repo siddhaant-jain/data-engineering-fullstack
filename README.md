@@ -1,9 +1,24 @@
 # data-engineering-fullstack
 This repository contains links to all resources for full stack data engineering skillset
 
-## List of Target Companies
+<h3> List of Target Companies </h3>
 
-* [Razorpay] ()
+* [Razorpay] (https://razorpay.com/?utm_source=linkedin&utm_medium=social) [Job_Description](https://www.linkedin.com/jobs/view/2631333149)
+    * ranked in linkedin top startups
+    * neelesh told to get knowledge of financial domain, trivia and stuff also
+    * Experience building and optimizing **‘big data’ data pipelines, architectures and data sets**.
+    * Strong **analytic skills** related to working with structured/unstructured datasets.
+    * Build processes supporting data transformation, data structures, **dimensional modelling, metadata, dependency, schema registration/evolution and workload managemen**t.
+    * Working knowledge of **message queuing, stream processing**, and highly scalable ‘big data’ data stores.
+    * Experience supporting and working with cross-functional teams in a dynamic environment.
+    * We are looking for a candidate with 4+ years of experience in a Data Engineer role. They should also have experience using the following software/tools:
+        * Experience with big data tools: **HDFS/S3, Spark/Flink,Hive,Hbase, Kafka/kanisis**, etc.
+        * Experience with relational SQL and NoSQL databases, including **Elasticsearch and Cassandra/Mongodb**.
+        * Experience with data pipeline and workflow management tools: **Azkaban, Luigi, Airflow**, etc.
+        * Experience with **AWS** /GCP cloud services
+        * Experience with stream-processing systems: **Spark-Streaming/Flink** etc.
+        * Experience with object-oriented/object function scripting languages: **Java, Scala**, etc.
+
 * [Disruptors_Capital](http://www.disruptors.capital/) [Job_Description](https://www.linkedin.com/jobs/view/2850688238)
     * Very small company, recently started, less than 100 employees, investment company
     * Experience building scalable, real time and high-performance data lake solutions usingtech such **Kafka**, **AWS EMR, S3, Hive, Spark**- Experience with workflow scheduling tools like **Airflow**- Experience with relational and non-relational databases- Experience with scripting languages such as Shell, Python- Programming Languages: **Java / Python / Scala**- Experience working with micro service architecture- Experience working with cloud-based service providers (preferably AWS)- Knowledge of **linear and logistic regression, K-means, K-medoids, Naive Bayes, Decision tree, Random forest, Clustering, Bayesian model, CNN, Transformers** would be considered a plus- Knowledge of natural language processing (**NLP**) will be considered a plus
@@ -88,6 +103,104 @@ This repository contains links to all resources for full stack data engineering 
     * Knowledge/experience in consuming **real-time data streams**.
     * Knowledge of data warehousing (**BigQuery, Redshift, Snowflake** etc.) and working with data lakes (**S3, ADLS**).
     * Knowledge of **statistical** and **machine learning** models and preprocessing techniques would be an added advantage
+
+* Thermo Fisher [Job_Description](https://www.linkedin.com/jobs/view/2848250066)
+    * Having Certifications like **AWS Certified Data Analytics, CCA Spark and Hadoop Developer or CCP Data Engineer** is highly desirable
+    * 5+ Years of Overall IT Experience and at least 3+ years as AWS Data Engineer in Data Lake, Data Analytics & Business Intelligence Solutions
+    * Full life cycle project implementation experience in AWS using **Pyspark/EMR, Athena, S3, Redshift, AWS API Gateway, Lambda, Glue** and other managed services
+    * Strong experience in building ETL data pipelines using Pyspark on EMR framework
+    * Hands on experience in using S3, AWS Glue jobs, S3 Copy, Lambda and API Gateway.
+    * Working SQL experience to troubleshoot SQL code. Redshift knowledge is an added advantage.
+    * Hands-on with system & application log tools like **Datadog, CloudWatch, Splunk** etc.
+    * Experience working with Python, **Python ML libraries** for data analysis, wrangling and insights generation
+    * Strong understanding of **AWS Data lake and data bricks**.
+    * Exposure to **Kafka, Redshift, Sage Maker** would be added advantage
+    * Exposure to data visualization tools like **Power BI, Tableau** etc.
+
+* [Grofers](http://www.blinkit.in/) [Job_Description](https://www.linkedin.com/jobs/view/2848216923)
+ * 6 to 8 years of relevant industry experience.
+    * Bachelor's and/or Master's degree in CS, or equivalent experience.
+    * Solid knowledge of Computer Science fundamentals (object-oriented design, **data structures** and algorithm design, problem-solving, and complexity analysis).
+    * A deep understanding of programming with one or more programming languages.
+    * Python and Scala are preferred.
+    * Experience designing, building and operating distributed systems, deploying high-performance systems with reliable monitoring and logging practices
+    * Experience operating big data systems for large scale storage and processing of data.
+    * Experience leading projects and mentoring members in the team.
+    * Effectively work across team boundaries to establish overarching data architecture, and provide guidance to individual teams.
+    * In-depth knowledge of relational and non-relational databases.
+    * Take part in code/design reviews to further develop your sense of code quality, maintainability, test coverage, and good design
+    * **Data Analysis,Data Streaming,NoSQL,Search,Kafka**
+
+* [Agoda](http://careersatagoda.com/) [Job_Description](https://www.linkedin.com/jobs/view/2758702161)
+    * Bangkok based job, online travel platform
+    * Over 2 years of hands-on experience working with technology like Spark, Hadoop, Kafka
+    * Knowledge and experience with machine learning
+    * Experience with Scrum/Agile development methodologies
+    * Experience building large-scale distributed products
+* American_Express [Job_Description](https://www.linkedin.com/jobs/view/2766245216)
+* Visa [Job_Description](https://www.linkedin.com/jobs/view/2814744862)
+* slice
+* [Bosch](http://www.boschindia.com/) [Job_Description](https://www.linkedin.com/jobs/view/2849256751)
+    * Hands on experience on **Spark sql and Spark streaming**.
+    * Hands on experience on **Scala** language.
+    * In depth knowledge of **SQL** and **NoSQL** (HBase).
+    * Good in writing Shell and **python** script.
+    * Good understanding of **Hadoop ecosystem**.
+    * Hands on experience on InteliJ, Github /Bitbucket, HUE.
+    * Understanding of **ETL** proces
+
+* [Acko](http://www.acko.com/) [Job_Description](https://www.linkedin.com/jobs/view/2818948287)
+    * product based, insurance, d-series funding
+    * Design, develop and maintain scalable data pipelines with a focus on writing clean, fault-tolerant code using Python, Airflow, Kafka, Spark, Apache Beam, Dataflow or similar Big Data solutions on Cloud Platforms.
+    * Design and manage **batch and real-time data ingestion** from multiple data sources and messaging systems.
+    * Collaborate with analytics/data science teams on data mart optimizations, query tuning, database design and Data Modeling.
+    * Monitor performance and advise any necessary infrastructure changes
+    * Modelling data and metadata to support ad-hoc and pre-built reporting
+    * Work with product and engineering teams on different data driven products and drive/implement the Data computation pipeline for the same.
+    * Own the design, development and maintenance of ongoing metrics, reports, dashboards etc on Data Platform to drive key business decisions.
+    * 2+ years of industry experience in the Big Data stack.
+    * Demonstrated ability in data modeling, ETL development, and data warehousing
+    * Knowledge and exposure on Big Data solutions on cloud platforms like GCP/AWS/Azure
+    * Experience with cloud MPP DW solutions like **Google BigQuery/Redshift/Azure SQL DW**
+    * Experience with various messaging systems such as **Kafka, RabbitMQ, Kinesis** etc.
+    * Knowledge of various ETL techniques and frameworks
+    * Experience with **Python, Airflow, Spark SQL/NoSQL**.
+    * Strong **SQL** and data modelling skills with solid knowledge of various industry standards such as **dimensional modelling, star schemas** etc
+    * Experience with big data tools such as **Cloud Dataflow/BigQuery** etc.
+    * Experience and exposure with GCP is Plus.
+    * Good to have knowledge on PostgreSQL Databases
+    * Familiarity with reporting tools like **Tableau or other BI packages**
+
+* ola [Job_Description](https://www.linkedin.com/jobs/view/2821131595)
+    * **Hadoop, Hbase, Hive, Kafka, Spark, Flink, Mesos/Kubernetes, Hudi/Deltalake , Prometheus, Grafana** etc.
+    * 4+ years of relevant industry experience.
+    * 2+ years experience in custom ETL design, implementation and maintenance.
+    * Working knowledge of relational databases and query authoring (**SQL**).
+    * Good Experience with **Java**(mandatory).
+    * Working experience with data at the petabyte scale.
+    * Experience designing, building and operating robust distributed systems.
+    * Experience designing and deploying high performance systems with reliable monitoring and logging practices.
+    * Effectively work across team boundaries to establish overarching data architecture, and provide guidance to individual teams.
+    * Expertise of Amazon Web Services (**AWS**) and/or other relevant Cloud Infrastructure solutions like Microsoft Azure or Google Cloud.
+    * Experience in managing and deploying containerized environments using **Docker, Mesos/Kubernetes** is a plus.
+    * Experience in managing projects using scrum methodology.
+    * Experience with multiple datastores is a plus (**MySQL, PostgreSQL, Aerospike, Couchbase, Scylla, Cassandra, Elasticsearch**). 
+
+* hotstar [Job_Description](https://www.linkedin.com/jobs/view/2793448281)
+    * BE/B.Tech/BS/MS/PhD in Computer Science or a related field (ideal)
+    * 3 -5 years of work experience building **data warehouse and BI systems**
+    * Strong **Java** skills
+    * Experience in either Go or **Python** (plus to have)
+    * Experience in **Apache Spark, Hadoop, Redshift, Athena**
+    * Strong understanding of database and storage fundamentals
+    * Experience with the **AWS** stack
+    * Ability to create data-flow design and write complex **SQL / Spark based transformations**
+    * Experience working on real time streaming data pipelines using **Spark Streaming or Storm**
+
+### Data Analyst
+* [Truecaller](https://www.linkedin.com/jobs/view/2831863910)
+* [Twitter](https://www.linkedin.com/jobs/view/2848234827)
+* [Myntra](https://www.linkedin.com/jobs/view/2849258558)
 
 <h3> Domains for fullstack </h3>
 <ul>
