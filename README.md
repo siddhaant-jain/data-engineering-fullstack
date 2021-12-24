@@ -118,7 +118,7 @@ This repository contains links to all resources for full stack data engineering 
     * Exposure to data visualization tools like **Power BI, Tableau** etc.
 
 * [Grofers](http://www.blinkit.in/) [Job_Description](https://www.linkedin.com/jobs/view/2848216923)
- * 6 to 8 years of relevant industry experience.
+    * 6 to 8 years of relevant industry experience.
     * Bachelor's and/or Master's degree in CS, or equivalent experience.
     * Solid knowledge of Computer Science fundamentals (object-oriented design, **data structures** and algorithm design, problem-solving, and complexity analysis).
     * A deep understanding of programming with one or more programming languages.
@@ -196,6 +196,9 @@ This repository contains links to all resources for full stack data engineering 
     * Experience with the **AWS** stack
     * Ability to create data-flow design and write complex **SQL / Spark based transformations**
     * Experience working on real time streaming data pipelines using **Spark Streaming or Storm**
+
+### other startups, unicorns to check
+* https://www.linkedin.com/pulse/linkedin-top-startups-2021-25-indian-companies-rise-/
 
 ### Data Analyst
 * [Truecaller](https://www.linkedin.com/jobs/view/2831863910)
