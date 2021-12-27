@@ -197,8 +197,28 @@ This repository contains links to all resources for full stack data engineering 
     * Ability to create data-flow design and write complex **SQL / Spark based transformations**
     * Experience working on real time streaming data pipelines using **Spark Streaming or Storm**
 
+* Truecaller [Job_Description](https://www.linkedin.com/jobs/view/2823679336)
+    * Experience working with orchestration tools (eg: **Airflow**).
+    * Experience working with big data and ETL development.
+    * Programming skills in **SQL, Spark with Scala**
+    * Experience working with cloud computing services (eg : **GCP, AWS, Azure**).
+    * Experience with **Data Science workflows**.
+    * Excellent problem solving and communication skills both with peers and experts from other areas.
+    * Self-motivated and have a proven ability to take initiative to solve problems.
+    * Work with vast projects like migration to **Google BigQuery**, migration to cloud-nativea technologies, etc.
+    * Experience with **Kubernetes**.
+    * Anomaly detection applications.
+    * **Real-time validation of data**.
+    * Experience with **Apache Beam, Apache Flink or CloudML**.
+
+
+
 ### other startups, unicorns to check
 * https://www.linkedin.com/pulse/linkedin-top-startups-2021-25-indian-companies-rise-/
+* ixigo
+* juspay
+* paypal
+* slice
 
 ### Data Analyst
 * [Truecaller](https://www.linkedin.com/jobs/view/2831863910)
@@ -212,9 +232,38 @@ This repository contains links to all resources for full stack data engineering 
   <li> Cloud </li>
 </ul>
 
-<h3> skills Required </h3>
-<ul>
-  <li> Airflow </li>
-  <li> PowerBI </li>
-  <li> Spark </li>
-</ul>
+### skills Required (for de)
+- Airflow
+- Spark
+- Snowflake (interview questions)
+- Terraform
+- CRON -- learn how to write cron notation time
+- Unix  
+- sql (window functions, surrogate key, lag functions, stored procedures)
+- mongodb, cassandra, hbase, dynamodb, s3
+- tableu / powerbi
+- Docker/ [Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do)
+- AWS (Tech: )
+- Azure (Tech: Databricks, ADF, Adls)
+- Git, github
+
+### skills Required (for da)
+- statistics basics
+
+
+
+
+[how_to_write_md_files](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[data_engg_repo](https://github.com/siddhaant-jain/data-engineering-fullstack/blob/master/README.md)
+
+[airflow_playlist_1](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
+[airflow_playlist_2](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh)
+[Tableu_course](https://www.simplilearn.com/skillup-free-online-courses)
+
+docker installation for windows:
+- https://docs.docker.com/desktop/windows/install/
+- https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+
+- https://docs.docker.com/compose/install/
+- docker compose part of docker desktop
