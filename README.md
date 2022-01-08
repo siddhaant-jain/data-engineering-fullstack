@@ -219,6 +219,8 @@ This repository contains links to all resources for full stack data engineering 
 * juspay
 * paypal
 * slice
+* Tata1mg
+* Dunzo
 
 ### Data Analyst
 * [Truecaller](https://www.linkedin.com/jobs/view/2831863910)
