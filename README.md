@@ -211,6 +211,49 @@ This repository contains links to all resources for full stack data engineering 
     * **Real-time validation of data**.
     * Experience with **Apache Beam, Apache Flink or CloudML**.
 
+* [Flipkart](https://www.linkedin.com/company/flipkart/) [Job_Description](https://www.linkedin.com/jobs/view/2874955982)
+    * 1-3 years’ experience with a Bachelor's Degree in Computer Science, Engineering, Technology or related field required. 1-2 years of relevant software development experience with sound skills in database modeling (relational, multi-dimensional) & optimization and data architecture - database
+    * Experience with Enterprise Business Intelligence Platform/Data platform sizing, tuning, optimization and system landscape integration in large-scale, enterprise deployments.
+    * Comfortable in one of the programming languages preferably Java, Scala or Python and Good knowledge of Agile, SDLC/CICD practices and tools.
+    * Must have experience with Hadoop, Mapreduce, Hive, Spark, Scala programming. Must have good knowledge of performance tuning/optimizing data processing jobs, debugging time consuming jobs.
+    * Proven experience in development of conceptual, logical, and physical data models for Hadoop, relational, EDW (enterprise data warehouse) and OLAP database solutions.
+    * Experience on BI tool e.g. PowerBI will be desirable and Experience working extensively in multi-petabyte DW environment
+
+* [Redbus](https://www.linkedin.com/company/redbus_2/) [Job_Description](https://www.linkedin.com/jobs/view/2873291049)
+    * In-depth understanding of NoSql database systems like Cassandra, MongoDB
+    * Working knowledge of key-value storage like Redis, RocksDB
+    * High-level language proficiency like Python (including pandas) or Java (multi-threading and JVM tuning).
+    * Stream-processing systems: Storm, Spark-Streaming, etc.
+    * Experience in Data warehouse design and dimensional modeling
+    * Experience with workflow automation with Airflow or Oozie
+    * Experience in functional programming will be an added advantage.
+    * Knowledge of serverless architectures (e.g. Lambda, Kinesis, Glue)
+    * Ability to demonstrate micro / macro design and familiar with Unix Commands and basic work experience in Unix Shell Scripting.
+    * Experience with AWS solutions such as EC2, RDS, ElasticCache, S3, Athena, Cloudwatch etc. will be an added advantage
+
+* [Apna](https://www.linkedin.com/company/apnahq/jobs/) [Job_Description](https://www.linkedin.com/jobs/view/2873773630)
+    * 3+ years of experience in a Data Engineer role.
+    * Experience building and optimizing big data pipelines, architectures and data sets.
+    * Build systems supporting data transformation, data structures, metadata, dependency and workload management.
+    * Working knowledge of message queuing, stream processing, and highly scalable data stores.
+    * A successful history of manipulating, processing and extracting value from large disconnected datasets.
+    * Experience with big data tools: Hadoop, Spark, Kafka, etc.
+    * Experience with relational SQL and NoSQL databases.
+    * Experience with object-oriented/object function scripting languages: Python, Java, Scala, etc.
+    * Experience with AWS/GCP cloud services: EC2, EMR, RDS, Redshift, DataProc, CloudSql, Bigquery
+
+* [Nike](https://www.linkedin.com/company/nike/life/1e81eceb-ed3c-4441-805b-73f62728a415/) [Job_Description](https://www.linkedin.com/jobs/view/2870110020)
+    * Able to quickly pick up new programming languages, technologies, and frameworks
+    * Able to influence and communicate effectively, both verbally and written, with team members and business stakeholders
+    * Has a strong problem solving and analytical mindset
+    * Strong understanding of solution and technical design
+    * Strong understanding of data structures and algorithms
+    * Has a passion for data solutions In-depth knowledge of scalable cloud
+    * Experience with workflow scheduling tools such as Airflow
+    * Experience with source control tools such as GitHub and related dev process
+    * Experience with scripting languages such as Shell, Python Experience with relational SQL
+    * Experience building data lake solutions leveraging one or more of following AWS, EMR, S3, Hive & Spark
+    * 2+ years' experience developing Data & Analytic solution
 
 
 ### other startups, unicorns to check
