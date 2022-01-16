@@ -306,4 +306,4 @@ This repository contains links to all resources for full stack data engineering 
 [airflow_playlist_2](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh)
 [Tableu_course](https://www.simplilearn.com/skillup-free-online-courses)
 
-docker tutorials studied: [techWithNana](https://www.youtube.com/watch?v=3c-iBn73dDE) [freecodecamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+docker repository link: https://github.com/siddhaant-jain/Docker-Notes-and-Resources
