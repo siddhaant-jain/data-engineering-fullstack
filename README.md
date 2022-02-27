@@ -255,6 +255,42 @@ This repository contains links to all resources for full stack data engineering 
     * Experience building data lake solutions leveraging one or more of following AWS, EMR, S3, Hive & Spark
     * 2+ years' experience developing Data & Analytic solution
 
+* [Ola Electric](https://www.linkedin.com/company/olaelectric/) [Job_Description](https://www.linkedin.com/jobs/view/2891105271)
+    * Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+    * Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+    * Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+    * Strong analytic skills related to working with unstructured datasets.
+    * Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+    * A successful history of manipulating, processing and extracting value from large disconnected datasets.
+    * Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+    * Strong project management and organizational skills.
+    * Experience supporting and working with cross-functional teams in a dynamic environment.
+    * They should also have experience using the following software/tools:
+    * 
+    * Experience with big data tools: Hadoop, Spark, Kafka, etc.
+    * Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+    * Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
+    * Experience with Azure cloud services: Synapse, ADF, ADX, Databricks, CosmosDB, Azure SQL DB, PostgreSQL
+    * Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+    * Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+    * Azure Certifications for AZ-900, DP-900, DP-200 & DP-201 (or DP-203) is a plus.
+
+* [Classplus](https://www.linkedin.com/company/classplus/) [Job_Description](https://www.linkedin.com/jobs/view/2888049171)
+    * Have good understanding of python, sql and shell scripting.
+    * Have knowledge of implementing and maintaining data science model on scale Strong analytical skills, debugging and troubleshooting skills, product line analysis.
+    * Have hands-on experience on GCP, Big query, Airbyte, cloud orchestrator, cloud storage and other GCP services.
+    * Have proficiency in usage of tools like Kubernetes, Redash or any other visualization tools is good to have.
+    * Are a follower of agile methodology (Sprint planning, working on JIRA, retrospective, etc).
+    * Hands-on experience with the queueing system pub-sub preferred.
+    * Knowledge on versioning like Git and deployment processes like CI CD.
+
+* [Upstox](https://www.linkedin.com/company/upstox/) [Job_Description](https://www.linkedin.com/jobs/view/2853627926)
+    * Must have: Hands-on working experience with Python / Scala, Spark(or similar frameworks), Big-data ETL pipelines, Hadoop (or similar distributed systems), advanced SQL, SQL query tuning.
+    * Good to have: Working knowledge of streaming frameworks (Spark Streaming / Apache Flink or similar frameworks), workflow management tools / platforms (Apache Airflow / NiFior similar solutions), dimensional data modelling, cloud native solutions (preferably on AWS).
+    * Brownie Points: Understanding of AWS Services -Redshift, DynamoDB, Lambda, Glue, Athena, Lake Formation, IAM, SQS & SNS, creating Cloud Formation / Terraform templates, understanding of Devops & SRE.
+    * At least 3 years of experience with minimum 1.5 years of experience in a Data Engineering role with exposure to dealing with large volumes of data.
+    * Bachelor's / Master's degree in the field of Computer Science or equivalent.
+
 
 ### other startups, unicorns to check
 * https://www.linkedin.com/pulse/linkedin-top-startups-2021-25-indian-companies-rise-/
