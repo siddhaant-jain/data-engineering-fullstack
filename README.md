@@ -186,6 +186,18 @@ This repository contains links to all resources for full stack data engineering 
     * Experience in managing projects using scrum methodology.
     * Experience with multiple datastores is a plus (**MySQL, PostgreSQL, Aerospike, Couchbase, Scylla, Cassandra, Elasticsearch**). 
 
+* ola_2 [Job_Description](https://www.linkedin.com/jobs/view/2956522512)
+    * 3+ years of relevant industry experience.
+    * 1+ years experience in custom ETL design, implementation and maintenance.
+    * Working knowledge of relational databases and query authoring (SQL).
+    * Good Experience with JAVA / Python / Scala / Spark.
+    * Working experience with data pipelines.
+    * Experience building and operating robust distributed systems.
+    * Experience deploying high performance systems with reliable monitoring and logging practices.
+    * Experience of Amazon Web Services (AWS) and/or other relevant Cloud Infrastructure solutions like Microsoft Azure or Google Cloud.
+    * Experience in managing and deploying containerized environments using Docker, Mesos/Kubernetes is a plus.
+    * Experience with multiple datastores is a plus (MySQL, PostgreSQL, Aerospike, Couchbase, Scylla, Cassandra, Elasticsearch).
+
 * hotstar [Job_Description](https://www.linkedin.com/jobs/view/2793448281)
     * BE/B.Tech/BS/MS/PhD in Computer Science or a related field (ideal)
     * 3 -5 years of work experience building **data warehouse and BI systems**
@@ -196,6 +208,17 @@ This repository contains links to all resources for full stack data engineering 
     * Experience with the **AWS** stack
     * Ability to create data-flow design and write complex **SQL / Spark based transformations**
     * Experience working on real time streaming data pipelines using **Spark Streaming or Storm**
+
+* cred [Job_Description](https://www.linkedin.com/jobs/view/2926152740)
+    * 3 to 7 years of relevant experience in data engineering
+    * experience in scripting with advanced sql, python/ scala and shell
+    * a good understanding of spark/ hadoop/ other distributed systems
+    * understanding of apache airflow and/ or nifi workflows
+    * hands on experience in sql query tuning and data modelling
+    * experience in administering visualization/ SQL workbench tools like Looker, Hue, Tableau, SuperSet etc
+    * relevant working knowledge on any of the rdbms and aws redshift
+    * knowledge of redshift administration skills
+    * experience in cloud platform(s) (preferably aws)
 
 * Truecaller [Job_Description](https://www.linkedin.com/jobs/view/2823679336)
     * Experience working with orchestration tools (eg: **Airflow**).
@@ -290,6 +313,16 @@ This repository contains links to all resources for full stack data engineering 
     * Brownie Points: Understanding of AWS Services -Redshift, DynamoDB, Lambda, Glue, Athena, Lake Formation, IAM, SQS & SNS, creating Cloud Formation / Terraform templates, understanding of Devops & SRE.
     * At least 3 years of experience with minimum 1.5 years of experience in a Data Engineering role with exposure to dealing with large volumes of data.
     * Bachelor's / Master's degree in the field of Computer Science or equivalent.
+
+* Paytm [Job_Description](https://jobs.lever.co/paytm/181bee49-aca0-402c-a26b-0fff5f81a4f0)
+    * You have previously worked on building serious data pipelines ingesting and transforming > 10 ^6 events per minute and terabytes of data per day.
+    * You are passionate about producing clean, maintainable and testable code part of real-time data pipeline.
+    * You understand how microservices work and are familiar with concepts of data modelling.
+    * You can connect different services and processes together even if you have not worked with them before and follow the flow of data through various pipelines to debug data issues.
+    * You have worked with Spark and Kafka before and have experimented or heard about Flink/Druid/Ignite/Presto/Athena and understand when to use one over the other.
+    * On a bad day maintaining zookeeper and bringing up cluster doesn't bother you.
+    * You may not be a networking expert but you understand issues with ingesting data from applications in multiple data centres across geographies, on-premise and cloud and will find a way to solve them.
+    * Proficient in Java/Scala/Python/Spark
 
 
 ### other startups, unicorns to check
