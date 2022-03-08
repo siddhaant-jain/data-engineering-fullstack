@@ -312,7 +312,6 @@ This repository contains links to all resources for full stack data engineering 
     * Good to have: Working knowledge of streaming frameworks (Spark Streaming / Apache Flink or similar frameworks), workflow management tools / platforms (Apache Airflow / NiFior similar solutions), dimensional data modelling, cloud native solutions (preferably on AWS).
     * Brownie Points: Understanding of AWS Services -Redshift, DynamoDB, Lambda, Glue, Athena, Lake Formation, IAM, SQS & SNS, creating Cloud Formation / Terraform templates, understanding of Devops & SRE.
     * At least 3 years of experience with minimum 1.5 years of experience in a Data Engineering role with exposure to dealing with large volumes of data.
-    * Bachelor's / Master's degree in the field of Computer Science or equivalent.
 
 * Paytm [Job_Description](https://jobs.lever.co/paytm/181bee49-aca0-402c-a26b-0fff5f81a4f0)
     * You have previously worked on building serious data pipelines ingesting and transforming > 10 ^6 events per minute and terabytes of data per day.
@@ -324,6 +323,15 @@ This repository contains links to all resources for full stack data engineering 
     * You may not be a networking expert but you understand issues with ingesting data from applications in multiple data centres across geographies, on-premise and cloud and will find a way to solve them.
     * Proficient in Java/Scala/Python/Spark
 
+* [HashedIn](https://hashedin.com/) [Job_Description](https://hashedin.com/jobs/data-engineer/)
+   * 2-8 years of experience
+   * Strong coding/debugging/problem-solving abilities and should have advanced knowledge of at least one programming language - Python , Java , or Scala
+   * Expertise in efficiently leveraging the power of distributed big data systems , including but not limited to Hadoop Hive , Spark , Kafka streaming etc.   
+   * Experience in cloud-based data engineering service offerings from GCP/ AWS/ Azure like S3 , Redshift , Athena , Kinesis , etc.
+   * Strong understanding of SQL , columnar databases , and additionally data warehousing concepts
+   * building scalable and performant data pipelines , implementing custom ETLs , data lake , and data warehouse solutioning
+   * Familiar with any common data visualization and exploration tools (Tableau , AWS Quicksight , Looker , etc.) 
+   * Hadoop , Hive , Spark , HBase , Kafka streaming , Tableau , Airflow , and other cloud-based data engineering services like S3 , Redshift , Athena , Kinesis , etc. 
 
 ### other startups, unicorns to check
 * https://www.linkedin.com/pulse/linkedin-top-startups-2021-25-indian-companies-rise-/
